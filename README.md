@@ -12,7 +12,7 @@ In addition to the above, this app also incorporates:
 - React [Hooks](https://reactjs.org/docs/hooks-reference.html) and [Context API](https://reactjs.org/docs/context.html) for state management
 - [Axios](https://github.com/axios/axios) for XHR requests
 - [Mongoose](https://www.npmjs.com/package/mongoose) as MongoDB object modeling tool
-- [Concurrently] to connect front end and back end
+- [Concurrently](https://www.npmjs.com/package/concurrently) to connect front end and back end
   
 This app supports:
 - Posting a new task
