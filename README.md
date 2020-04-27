@@ -46,4 +46,5 @@ npm run client
 
 > NOTE: 
 MongoDB atlas credentials are located at `./config/secrets.js`.
+The default config is already hooked to an existing mongoDB atlas database.
 Client is default at port 3000 and server is default at port 4000.
