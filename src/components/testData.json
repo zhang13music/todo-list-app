@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Take out the trash",
+      "description": "remember both bedroom and kitchen trash",
+      "completed": true
+    },
+
+    {
+      "id": 2,
+      "title": "Dinner w/ Pari",
+      "description": "time to eat some broccoli yay",
+      "completed": true
+    },
+
+    {
+      "id": 3,
+      "title": "Finish MP",
+      "description": "due date is coming soon",
+      "completed": false
+    }
+  ]
+}
